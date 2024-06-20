@@ -1,0 +1,79 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url('https://i.shgcdn.com/1e124b0b-7f01-435a-8812-ddb9c0bbe1bc/-/format/auto/-/preview/3000x3000/-/quality/lighter/');
+  background-size: cover;      
+  background-repeat: no-repeat; 
+  background-position: center;
+  background-attachment: fixed;
+}
+
+img#exerciseImage, #toggleButton{
+  display: block; 
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img#exerciseImage {
+  width: 300px; 
+  height: 300px; 
+}
+
+.dropdown {
+  display: flex;
+  justify-content: center;
+  align-items : center;
+}
+h1, p, h3, h2 {
+  color: #ffffff; 
+  text-align: center;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+#menu {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-content: center;
+}
+
+.center-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.hover-container {
+  position: relative;
+  text-align: center;
+}
+
+.hover-image {
+  width: 300px;
+  display: block;
+  margin: 0 auto;
+}
+
+.hover-text {
+  visibility: hidden;
+  background-color: rgba(0, 0, 0, 0.8);
+  color: #fff;
+  text-align: center;
+}
+
+.hover-container:hover .hover-text {
+  visibility: visible;
+}
+
+#exerciseText ul {
+  margin-top: 5px; 
+  padding-left: 20px; 
+  list-style-position: inside; 
+}
+
+#exerciseText li {
+  margin-bottom: 5px; 
+  padding-left: 0; 
+}
+
+

@@ -1,0 +1,4 @@
+Attepmped to create a single page application that allows you to choose a muscle you want to work out from a drop down menu. Also when you put your mouse over the gif it explains why it's important to workout
+Website used for the information used to explain why it's important to workout = https://www.tiyara.org/blog/the-benefits-of-physical-activity?gad_source=1&gclid=CjwKCAjwg8qzBhAoEiwAWagLrF6qHUtKXmSwY2P7pdcvBBpkJqTEpLT2d6C8kxtL3R8FxzAI-f5DSxoCuicQAvD_BwE
+API where I copied and pasted information from for my db.json = https://api-ninjas.com/api/exercises
+Project is still a work in progress, still a bunch of kinks I have to workout 

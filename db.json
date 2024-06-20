@@ -1,0 +1,29 @@
+{
+  "exercises": [
+    {
+      "muscle": "triceps",
+      "image": "https://cdn.shopify.com/s/files/1/2623/4904/files/Tricep_muscles_600x600.png?v=1668414864",
+      "text": "Exercises, Tricep Dip, Decline EZ-bar skullcrusher, Dumbbell floor press, Cable V-bar push-down, Weighted bench dip"
+    },
+    {
+      "muscle": "biceps",
+      "image": "https://media.istockphoto.com/id/1158069354/vector/biceps-muscle-logo-on-white-background-vector.jpg?s=612x612&w=0&k=20&c=KucjWxHebVeUx6fD3V8no7W8mZgFWniYSwBDJ9Dp9mk=",
+      "text": "Exercises, Incline Hammer Curls, Wide-grip barbell curl, EZ-bar spider curl, Hammer Curls, Barbell Curl"
+    },
+    {
+      "muscle": "chest",
+      "image": "https://img.freepik.com/premium-vector/human-chest-muscle-male-anatomy-model-vector-perfect-gym-illustration-health-medicine_667453-214.jpg?w=740",
+      "text": "Exercises, Dumbbell Bench Press, Pushups, Close-grip bench press, Dumbbell Flyes,Incline dumbbell bench press"
+    },
+    {
+      "muscle": "hamstrings",
+      "image": "https://moyerwellness.com/wp-content/uploads/2023/09/Hamstrings-2.jpg",
+      "text": "Exercises, Barbell Deadlift, Clean Deadlift, Sumo deadlift, Romanian Deadlift from Deficit, Power Clean from Blocks"
+    },
+    {
+      "muscle": "quadriceps",
+      "image": "https://banner2.cleanpng.com/20180422/siq/kisspng-quadriceps-femoris-muscle-femur-anterior-cruciate-hack-5adcf177ea9296.3301259615244291759608.jpg",
+      "text": "Exercises,Single-Leg Press, Barbell Full Squat, Tire flip, Push-press, Reverse Band Box Squat"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gym Exercises for Different Body Parts</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h3>Gym Exercises for Different Body Parts</h3>
+    <p>Access different workouts for a body part</p>
+  </header>
+  <main>
+    <div class="dropdown">
+      <h3> Choose which body part you'd like to view:</h3>
+      <select id="menu">
+        <option value= ""selected disabled>Select a muscle group</option>
+        <option value="triceps">Triceps</option>
+        <option value="chest">Chest</option>
+        <option value="hamstrings">Hamstrings</option>
+        <option value="biceps">Biceps</option>
+        <option value="quadriceps">Quadriceps</option>
+      </select>
+    </div>
+    <section id="content">
+      <img id="exerciseImage" src="" alt="" style="display: none; width: 300px; height: auto;">
+      <p id="exerciseText">Select a muscle from the dropdown menu to view the information.</p>
+    </section>
+    <section id="importance" class="center-container">
+      <h2>Why It's Important to Workout</h2>
+      <div class="hover-container">
+        <img id="hoverImage" src="https://media1.tenor.com/m/L4yXQQHUmkgAAAAC/working-out-spongbob.gif">
+        <div id="hoverText" class="hover-text">Enhances cardiovascular health, aids in weight management, boosts the immune system, improves sleep quality, increases lifespan, increased concentration, better sleep</div>
+      </div>
+    </section>
+    <button id="toggleBackground">Toggle Background</button>
+  </main>
+  <script src="index.js"></script>
+</body>
+</html>
